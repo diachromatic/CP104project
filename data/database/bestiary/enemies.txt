@@ -1,0 +1,2 @@
+Green Slime|1|Amorphous|Slime|0|1|0|0||10|
+Blue Slime|2|Amorphous|Slime|2|-1|0|0||10|

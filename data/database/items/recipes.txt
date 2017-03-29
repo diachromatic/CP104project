@@ -1,0 +1,3 @@
+ItemID|Tier|Materials|Shortname|
+2|0|killyourself;aliveyourself;|killyourself|
+3|0|aliveyourself;aliveyourself;|aliveyourself|

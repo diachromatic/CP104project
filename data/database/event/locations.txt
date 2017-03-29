@@ -1,0 +1,3 @@
+what the fuck
+Town of Unreality | unreality | You are currently in the Town of Unreality. No one walks past you, or even bothers to wave at you from their window. How rude. | 5 |  | 2; | &explore;&sleep;&travel; |
+Town of Semireality | semireality | You stare at the Town of Semireality and it stares at you. It's a rather hesitant engagement. | 10 |  | 1; | &explore;&sleep;&travel; |

@@ -1,0 +1,4 @@
+Nothing|N/A|None|nonbattle|none|0|<0:0>
+Suicide Pill|killyourself|Deals 65535 damage.|nonbattle|hurtfixed|65535|<0:0>
+Unsuicide Pill|aliveyourself|Deals 65535 undamage.|battle|healfixed|65535|<0:0>
+Test Herb|therb|It's just a test bro|nonbattle|healfixed|1|<1:256>

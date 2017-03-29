@@ -1,0 +1,2 @@
+allow flag|disallow flag|location|actions|command([flag:destination]);|description
+a:0|d:0|l:0|END;||Fucking sick, your debug party sets off for adventure now go do some shit.

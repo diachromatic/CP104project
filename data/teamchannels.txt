@@ -1,0 +1,9 @@
+[The Adventurer's Forest]
+blue_team <blue>
+
+red_team <red>
+
+[The Cave Story Tribute Site Forums Discord Group (TCSTSFDG)]
+
+general <red>
+
