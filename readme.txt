@@ -1,4 +1,6 @@
-https://github.com/diachromatic/CP104project.git
+Bot created by Ryan Mallet 150489240.
+
+https://github.com/diachromatic/CP104project
 
 Run taf.py in Python. You will need the Discord API, which you can find here: https://github.com/Rapptz/discord.py
 
