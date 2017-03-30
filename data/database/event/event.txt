@@ -1,2 +1,2 @@
 allow flag|disallow flag|location|actions|command([flag:destination]);|description
-a:0|d:0|l:0|END;||Fucking sick, your debug party sets off for adventure now go do some shit.
+a:0|d:0|l:0|END;||You start your Adventure in the Adventurer's Forest, how exciting. Your team of four - Red, Vex, Anne and Ears - step into the Town of Unreality and get their bearings. They hope to become strong off of fighting the monsters nearby, and become the ultimate adventurers.

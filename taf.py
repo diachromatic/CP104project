@@ -3437,22 +3437,7 @@ async def on_message(message):
 			if command == "help":
 				argument1 = get_argument(lowermessage, pointer, ' ')
 				pointer += len(argument1) + 1
-				helpmessage = ""
-				
-				if argument1 == "":
-					helpmessage = "<Placeholder text>\n\nTopics:\nBasics, Combat, Commands, Events"
-					
-				else:
-					if argument1[0] == commandsymbol:
-						if argument1[1:] == "help":
-							helpmessage = "quack"
-						
-					else:
-						if argument1 == "basics":
-							helpmessage = ""
-						if argument1 == "commands":
-							helpmessage = "Available commands:\n<Placeholder text>\n\nAdmin commands:\n<Placeholder text>\n\nType **help <command>** (including the **" + commandsymbol + "**) for information on a specific command."
-										
+				helpmessage = "Welcome to The Adventurer's Forest, or \"TAF\" for short.\n\nThis is still only a demo, but gives a slight introduction to a rough version of the plot, and provides a solid combat system, complete with leveling and skills.\n\nCommands will be stated when they are available for use. Anything in <these brackets> following a command indicates a parameter to pass through. Any phrases [within these brackets] are examples of parameters that you are able to pass through.\n\nCombat\nWhile in combat, use &<character name> <action> to set a character's action. Actions available are \"attack\", \"defend\", \"run\", \"skill\", or \"item\". Once all characters' actions are set, you may execute the round by using the &execute command. All characters will then perform their actions at once. You can use &autoattack to immediately and automatically execute your actions over and over until the battle would finish."
 				await client.send_message(message.channel, helpmessage)
 			
 			# After-action Events
